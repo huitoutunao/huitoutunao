@@ -2,7 +2,7 @@ Hi, I’m huitoutunao 👋
 
 I’m a frontend developer. 
 
-[![huitoutunao's github stats](https://github-readme-stats.vercel.app/api?username=huitoutunao)](https://github.com/anuraghazra/github-readme-stats)
+[![huitoutunao's github stats](https://github-readme-stats.vercel.app/api?username=huitoutunao&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👀 I’m interested in ...
