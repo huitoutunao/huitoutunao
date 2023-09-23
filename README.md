@@ -1,4 +1,12 @@
-### 我是灰头涂脑
+## 我是灰头涂脑
+
+<p align='left'>
+  <img src="https://img.shields.io/badge/JavaScript-f6da1c?style=flat&logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue-46b882?style=flat&logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-165DFF?style=flat&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-00B42A?style=flat&logo=nodedotjs&logoColor=fff" />
+</p>
 
 前端工程师。正在努力打补丁...
 
