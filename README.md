@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Node.js-00B42A?style=flat&logo=nodedotjs&logoColor=fff" />
 </p>
 
-前端工程师。正在努力打补丁...
+前端开发工程师。正在努力打补丁...
 
 <!---
 [![huitoutunao's github stats](https://github-readme-stats.vercel.app/api?username=huitoutunao&&hide=prs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
