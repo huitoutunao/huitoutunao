@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Vue-46b882?style=flat&logo=vuedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-165DFF?style=flat&logo=react&logoColor=fff" />
   <img src="https://img.shields.io/badge/Node.js-00B42A?style=flat&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=%23fff" />
 </p>
 
 前端开发工程师。正在努力打补丁...
