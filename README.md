@@ -1,12 +1,12 @@
 ## 我是煮杯热茶
 
 <p align='left'>
-  <img src="https://img.shields.io/badge/JavaScript-f6da1c?style=flat&logo=javascript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vue-46b882?style=flat&logo=vuedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-165DFF?style=flat&logo=react&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-00B42A?style=flat&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=%23fff" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff" />
 </p>
 
 前端开发工程师。正在努力打补丁...
