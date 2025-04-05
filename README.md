@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=fff" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" />
 </p>
 
 前端开发工程师。正在努力打补丁...
